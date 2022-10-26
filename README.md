@@ -1,6 +1,6 @@
 # Projet-Agriculture-Urbaine
 
-Il s'agit d'un repertoire perttant de centraliser et d'échanger l'avancé des travaux sur le projet de BEN GORBEL Bayrem, CHAMPOMMIER Yann, KARBOUL Olfa et TÊTE-NEUVY Alexandre.
+Il s'agit d'un repertoire perttant de centraliser et d'échanger l'avancé des travaux sur le projet de BEN GHORBEL Bayrem, CHAMPOMMIER Yann, KARBOUL Olfa et TÊTE-NEUVY Alexandre.
 Ce projet à pour thème ***l'Agriculture Urbaine*** avec les problématiques suivantes, choisit par le groupe :
 
 - Surveillance et suivi d'une plante dans le but d'optimiser sa gestion,
