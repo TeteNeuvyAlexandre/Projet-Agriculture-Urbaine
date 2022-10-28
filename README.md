@@ -13,8 +13,6 @@ Ce projet à pour thème ***l'Agriculture Urbaine*** avec les problématiques su
 
 ## Liens utiles à la navigations du répertoire
 
-Cahier de Bord
-
-Présentation Oral
-
-Divers
+- [Cahier de Bord](https://github.com/TeteNeuvyAlexandre/Projet-Agriculture-Urbaine/blob/main/Cahier-de-Bord/CahierDeBord.md)
+- [Consignes sur la Présentation Oral](https://github.com/TeteNeuvyAlexandre/Projet-Agriculture-Urbaine/blob/main/Presentation-Oral/ConsignesPresentationOral.md)
+- [Bibliographie](https://github.com/TeteNeuvyAlexandre/Projet-Agriculture-Urbaine/blob/main/Bibliographie/Bibliographie.md)
