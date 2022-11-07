@@ -13,7 +13,7 @@ Ce projet à pour thème ***l'Agriculture Urbaine*** avec les problématiques su
 
 ## Carte Mentale effectué par les différents groupes sur le thème ***Agriculture Urbaine***
 
-![Carte Mentale](CarteMentalSonbre.png)
+![Carte Mentale](CarteMentaleSonbre.png)
 
 ## Liens utiles à la navigations du répertoire
 
