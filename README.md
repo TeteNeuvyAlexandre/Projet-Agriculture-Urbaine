@@ -11,6 +11,10 @@ Ce projet à pour thème ***l'Agriculture Urbaine*** avec les problématiques su
 - Gestion et optimisation de l'eau en milieu urbain (lors de restrictions estivales),
 - Gestion de la polénisation en milieu urbain.
 
+## Carte Mentale effectué par les différents groupes sur le thème ***Agriculture Urbaine***
+
+![Carte Mentale](CarteMentalSonbre.png)
+
 ## Liens utiles à la navigations du répertoire
 
 - **[Cahier de Bord](https://github.com/TeteNeuvyAlexandre/Projet-Agriculture-Urbaine/blob/main/Cahier-de-Bord/CahierDeBord.md)**

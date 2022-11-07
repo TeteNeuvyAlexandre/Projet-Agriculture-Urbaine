@@ -9,6 +9,7 @@ Bienvenue sur le cahier de bord du projet ***Agriculture Urbaine*** de BEN GHORB
 - Création du groupe (Membres : BEN GHORBEL Bayrem, CHAMPOMMIER Yann, KARBOUL Olfa et TÊTE-NEUVY Alexandre).
 - Découverte des thèmes de projets.
 - Choix du thème ***Agriculture Urbaine*** pour le projet du groupe.
+  - Brainstorm des différents groupes sur le thème ***Agriculture Urbaine*** : [lien vers Excalidraw](https://excalidraw.com/#json=IOigMyC262AFkCa9gDnjQ,8n2d9_i5U5HhxjmTD9FImw)
 - Réflexion sur des problématiques en lien avec le thème choisi :
   - Surveillance et suivi d'une plante dans le but d'optimiser sa gestion,
   - Auto-gestion d'une plante sans intervention humaine,
