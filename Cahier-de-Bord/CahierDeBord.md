@@ -24,4 +24,18 @@ Bienvenue sur le cahier de bord du projet ***Agriculture Urbaine*** de BEN GHORB
 - Reflexion sur des idées de projets en lien avec le thème et les problématique choisi.
 - Reflexion sur les tâches que chacun souhaite faire pour le projet choisit.
 
+##Seconde Séance (21/11/2022)
+
+### Ce qui est demandé de faire
+
+- Définir les termes techniques en lien avec le projet,
+- Trouver un service, un produit et/ou un protocole d'expérimentation,
+- Présentation du produit sous forme d'un diagramme *"Bête à corne"*,
+- Présentation du projet sous la forme d'une présentation QQOQCP.
+
+### Ce qui à été fait
+
+- Réflexion sur le produit répondant à l'objectif *Surveillance et suivi d'une plante dans le but d'optimiser sa gestion*.
+  - Construction du diagramme *"Bête à corne"* : [lien vers Excalidraw](https://excalidraw.com/#room=fa84c23afac9f46951ce,kRvk-nGmR4Jr89U1zL-cZw)
+
 ### [Retour à la page d'accueil](https://github.com/TeteNeuvyAlexandre/Projet-Agriculture-Urbaine)
