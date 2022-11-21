@@ -38,4 +38,8 @@ Bienvenue sur le cahier de bord du projet ***Agriculture Urbaine*** de BEN GHORB
 - Réflexion sur le produit répondant à l'objectif *Surveillance et suivi d'une plante dans le but d'optimiser sa gestion*.
   - Construction du diagramme *"Bête à corne"* : [lien vers Excalidraw](https://excalidraw.com/#room=fa84c23afac9f46951ce,kRvk-nGmR4Jr89U1zL-cZw)
 
+### Ce qui sera à faire
+
+- Mise en place du diagramme de Gant.
+
 ### [Retour à la page d'accueil](https://github.com/TeteNeuvyAlexandre/Projet-Agriculture-Urbaine)
