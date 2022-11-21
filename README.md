@@ -15,6 +15,14 @@ Ce projet à pour thème ***l'Agriculture Urbaine*** avec les problématiques su
 
 ![Carte Mentale](CarteMentaleSombre.png)
 
+## Diagramme *"Bête à Cornes"* effectué par le groupe
+
+![Diagramme Bête à Cornes](DiagrammeBeteCorneSombre.png)
+
+## Diagramme synthétique de l'objet répondant à la problématiques
+
+![Diagramma Synthétique](DiagrammeSynthetiqueSombre.png)
+
 ## Liens utiles à la navigations du répertoire
 
 - **[Cahier de Bord](https://github.com/TeteNeuvyAlexandre/Projet-Agriculture-Urbaine/blob/main/Cahier-de-Bord/CahierDeBord.md)**

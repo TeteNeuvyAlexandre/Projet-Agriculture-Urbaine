@@ -2,7 +2,7 @@
 
 Bienvenue sur le cahier de bord du projet ***Agriculture Urbaine*** de BEN GHORBEL Bayrem, CHAMPOMMIER Yann, KARBOUL Olfa et TÊTE-NEUVY Alexandre.
 
-## Première Séance
+## Première Séance (24/10/2022)
 
 ### Ce qui à été fait
 
