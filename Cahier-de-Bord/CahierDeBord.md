@@ -24,7 +24,7 @@ Bienvenue sur le cahier de bord du projet ***Agriculture Urbaine*** de BEN GHORB
 - Reflexion sur des idées de projets en lien avec le thème et les problématique choisi.
 - Reflexion sur les tâches que chacun souhaite faire pour le projet choisit.
 
-##Seconde Séance (21/11/2022)
+## Seconde Séance (21/11/2022)
 
 ### Ce qui est demandé de faire
 
