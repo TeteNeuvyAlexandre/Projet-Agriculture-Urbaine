@@ -37,9 +37,23 @@ Bienvenue sur le cahier de bord du projet ***Agriculture Urbaine*** de BEN GHORB
 
 - Réflexion sur le produit répondant à l'objectif *Surveillance et suivi d'une plante dans le but d'optimiser sa gestion*.
   - Construction du diagramme *"Bête à corne"* : [lien vers Excalidraw](https://excalidraw.com/#room=fa84c23afac9f46951ce,kRvk-nGmR4Jr89U1zL-cZw)
+  - Construction d'une présentation QQOQCP.
+	- Qui ? -> l'utilisateur (particulier ou professionnel,
+	- Quoi ? -> la plante que l'utilisateur souhaite faire pousser,
+	- Où ? -> en milieu urbaine de préférence,
+	- Quand -> de la plantation à la récolte,
+	- Comment -> observation des besion de la plante pour sa croissance,
+	- Pourquoi -> permet d'optimiser la récolte d'une plante.
+  - Construction d'une carte mentale synthétisant l'objet *"Pot Intelligent"* : [lien vers Excalidraw](https://excalidraw.com/#room=6c0d9494d03ff101537c,4kgsMtWoj44XYnoUmgsxHg)
 
 ### Ce qui sera à faire
 
+- Recherche des composants nécessaires à la construction du *"Pot Intelligent"* :
+  - Comparatif des différents capteurs de Température (effectué par BEN GHORBEL Bayrem),
+  - Comparatif des différents capteurs de Luminosité (effectué par CHAMPOMMIER Yann),
+  - Comparatif des différents capteurs d'humidité du sol (effectué par KARBOUL Olfa),
+  - Comparatif des différents microcontrôleurs (effectué par TÊTE-NEUVY Alexandre),
+  - Comparatif des différents écrans (effectué par TÊTE-NEUVY Alexandre).
 - Mise en place du diagramme de Gant.
 
 ### [Retour à la page d'accueil](https://github.com/TeteNeuvyAlexandre/Projet-Agriculture-Urbaine)
