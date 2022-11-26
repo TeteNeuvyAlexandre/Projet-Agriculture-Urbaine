@@ -5,3 +5,7 @@ Ce document résume les recherches sur les capteurs d'humidité du sol afin de s
 | Modèle   | Spécificité n°1 | Spécificité n°2 | Spécificité n°N | Prix   |
 |:--------:|:---------------:|:---------------:|:---------------:|:------:|
 | Exemple  | Quelque chose   | Autre chose     | Machin          | Bidule |
+
+[Retour vers la blibliographie](https://github.com/TeteNeuvyAlexandre/Projet-Agriculture-Urbaine/blob/main/Bibliographie/Bibliographie.md)
+[Retour vers le cahier de bord](https://github.com/TeteNeuvyAlexandre/Projet-Agriculture-Urbaine/blob/main/Cahier-de-Bord/CahierDeBord.md)
+[Retour vers la page d'accueuil](https://github.com/TeteNeuvyAlexandre/Projet-Agriculture-Urbaine)
