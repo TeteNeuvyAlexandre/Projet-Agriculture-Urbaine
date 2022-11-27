@@ -17,6 +17,12 @@ Ce document résume les recherches sur les microcontrôleurs afin de sélectionn
 | Tensy 4.0           | 35 mm x 18 mm x 4 mm    | ARM Cortex-M7                    | 600 MHz           | 2 MB               | 5 V                       | 5 V                  | 31 PWM                   | 14                      | Micro USB                                            | Oui                       | Non                                              | 23.00 €  |
 | Tensy 4.1           | 61 mm x 18 mm x 4 mm    | ARM Cortex-M7                    | 600 MHz           | 8 MB               | 5 V                       | 5 V                  | 35 PWM                   | 18                      | Micro USB                                            | Oui                       | Ethernet                                         | 30.00 €  |
 
+## Sources
+
+- [Documentation Arduino](https://docs.arduino.cc)
+- [Datasheets des microcontrôleurs Raspberry](https://datasheets.raspberrypi.com)
+- [Spésifications technique des cartes tensy](https://www.pjrc.com/teensy/techspecs.html)
+
 ### [Retour vers la blibliographie](https://github.com/TeteNeuvyAlexandre/Projet-Agriculture-Urbaine/blob/main/Bibliographie/Bibliographie.md)
 
 ### [Retour vers le cahier de bord](https://github.com/TeteNeuvyAlexandre/Projet-Agriculture-Urbaine/blob/main/Cahier-de-Bord/CahierDeBord.md)

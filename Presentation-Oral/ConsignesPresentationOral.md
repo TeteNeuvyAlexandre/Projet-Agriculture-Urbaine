@@ -9,6 +9,6 @@ Le projet de ce répertoire aura pour finalité une présentation oral devant le
 - Présentation du dépot Git-Hub du projet,
 - Présentation du site internet décrivant le projet.
 
-### La présentation oral du projet aura lieu en janvier (date à préciser).
+### La présentation oral du projet aura lieu le 18 janvier 2023.
 
 ### [Retour à la page d'accueil](https://github.com/TeteNeuvyAlexandre/Projet-Agriculture-Urbaine)
