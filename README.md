@@ -19,9 +19,9 @@ Ce projet à pour thème ***l'Agriculture Urbaine*** avec les problématiques su
 
 ![Diagramme Bête à Cornes](DiagrammeBeteCorneSombre.png)
 
-## Diagramme synthétique de l'objet répondant à la problématiques
+## Diagramme de Gantt résumant l'avancée des travaux
 
-![Diagramma Synthétique](DiagrammeSynthetiqueSombre.png)
+![Diagramma de Gantt](DiagrammeGanttSombre.png)
 
 ## Liens utiles à la navigations du répertoire
 
