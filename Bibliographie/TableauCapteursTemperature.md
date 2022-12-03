@@ -4,7 +4,7 @@ Ce document résume les recherches sur les capteurs de température afin de sél
 
 | Modèle   | Spécificité n°1 | Spécificité n°2 | Spécificité n°N | Prix   |
 |:--------:|:---------------:|:---------------:|:---------------:|:------:|
-| Exemple  | Quelque chose   | Autre chose     | Machin          | Bidule |
+| Exemple  | Quelque chose   | Autre chose     |                 | Bidule |
 
 ### [Retour vers la blibliographie](https://github.com/TeteNeuvyAlexandre/Projet-Agriculture-Urbaine/blob/main/Bibliographie/Bibliographie.md)
 
