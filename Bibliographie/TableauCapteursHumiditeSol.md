@@ -13,20 +13,21 @@ Ce document résume les recherches sur les capteurs d'humidité du sol afin de s
 | Grove                 | résistif        | 3.3 - 5V                                 | _                 | 35 mA                     | 20 X 60 mm       | Oui                     | Non                          | 4,43€  |
 
 [premier capteur](https://cdn.shopify.com/s/files/1/1509/1638/files/Hygrometer_V1.2_Sensor_Modul_Datenblatt_AZ-Delivery_Vertriebs_GmbH.pdf?v=1608545956)
+(https://www.youtube.com/watch?v=NAtyDvdNi_o&t=114s)
 
-[deuxième capteur](https://www.youtube.com/watch?v=NAtyDvdNi_o&t=114s)
+[deuxième capteur](https://www.reichelt.com/fr/fr/cartes-de-d-veloppement-capteur-d-humidit-encastrable-dans-le-debo-cap-sens-p223620.html?r=1&fbclid=IwAR1)
 
-[troisième capteur](https://www.reichelt.com/fr/fr/cartes-de-d-veloppement-capteur-d-humidit-encastrable-dans-le-debo-cap-sens-p223620.html?r=1&fbclid=IwAR1)
+[troisième capteur](https://www.youtube.com/watch?v=8wXSh9TeYoA&t=44s)
 
-[quatrième capteur](https://www.youtube.com/watch?v=8wXSh9TeYoA&t=44s)
+[quatrième capteur](https://cdn-reichelt.de/documents/datenblatt/A300/DATASHEET_SEN-MOISTURE.pdf)
 
-[cinquième capteur](https://cdn-reichelt.de/documents/datenblatt/A300/DATASHEET_SEN-MOISTURE.pdf)
+[cinquième capteur](https://cdn-reichelt.de/documents/datenblatt/A300/ME110.pdf)
 
-[sixième capteur](https://cdn-reichelt.de/documents/datenblatt/A300/ME110.pdf)
+[sixième capteur](https://cdn-reichelt.de/documents/datenblatt/A300/SE045.pdf)
 
-[ceptième capteur](https://cdn-reichelt.de/documents/datenblatt/A300/SE045.pdf)
+[ceptième capteur](https://cdn-reichelt.de/documents/datenblatt/A300/101020008_01.pdf)
 
-[huitième capteur](https://cdn-reichelt.de/documents/datenblatt/A300/101020008_01.pdf)
+[huitième capteur]
 
 
 
