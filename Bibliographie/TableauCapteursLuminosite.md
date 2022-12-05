@@ -2,6 +2,8 @@
 
 Ce document résume les recherches sur les capteurs de luminosité afin de sélectionner le plus pertinent pour la conception de l'objet *"Pot Intelligent"*.
 
+## Les différentes technologies pour mesurer la lumière
+
 ### Les cellules photovoltaïques
 Une cellule photovoltaïque a pour but de convertir une énergie de lumière en énergie électrique. Ces cellules fonctionnent comme des panneaux photovoltaïques, ce qui permet de réaliser de grandes économies, à la fois énergétiques et financières.
 
@@ -13,6 +15,8 @@ Les photo-résistances sont des dispositifs qui permettent de retransmettre de l
 
 ### Les photo-transistors
 Egalement appelés photodiodes avec amplification, les photo-transistors sont toutefois bien plus sensibles que les photodiodes classiques. Les photo-transistors ont tendance à être utilisés dans le domaine de la téléphonie, pour les smartphones et les tablettes, mais également dans le domaine de l'automobile.
+
+## Comparatif de différents capteurs existant
 
 | Modèle   | Spécificité n°1 | Spécificité n°2 | Spécificité n°N | Prix   |
 |:--------:|:---------------:|:---------------:|:---------------:|:------:|
