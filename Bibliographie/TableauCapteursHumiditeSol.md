@@ -13,9 +13,9 @@ Ce document résume les recherches sur les capteurs d'humidité du sol afin de s
 
 ## Autres sources
 
-[Vidéo détaillant le fonctionnment du Capacitive soil moisture sensor V1.2](https://www.youtube.com/watch?v=NAtyDvdNi_o)
+- [Vidéo détaillant le fonctionnment du Capacitive soil moisture sensor V1.2](https://www.youtube.com/watch?v=NAtyDvdNi_o)
 
-[Vidéo détaillant le fonctionnment du Soil Moisture Sensor](https://www.youtube.com/watch?v=8wXSh9TeYoA&t=44s)
+- [Vidéo détaillant le fonctionnment du Soil Moisture Sensor](https://www.youtube.com/watch?v=8wXSh9TeYoA&t=44s)
 
 ### [Retour vers la blibliographie](https://github.com/TeteNeuvyAlexandre/Projet-Agriculture-Urbaine/blob/main/Bibliographie/Bibliographie.md)
 

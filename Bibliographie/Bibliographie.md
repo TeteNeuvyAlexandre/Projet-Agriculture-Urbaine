@@ -26,7 +26,7 @@ Ce document à pour but de rassembler toute les sources qui ont été utiles lor
 
 - [Comparatif des différents capteurs de Température](https://github.com/TeteNeuvyAlexandre/Projet-Agriculture-Urbaine/blob/main/Bibliographie/TableauCapteursTemperature.md) (effectué par BEN GHORBEL Bayrem),
 - [Comparatif des différents capteurs de Luminosité](https://github.com/TeteNeuvyAlexandre/Projet-Agriculture-Urbaine/blob/main/Bibliographie/TableauCapteursLuminosite.md) (effectué par CHAMPOMMIER Yann),
-- [Comparatif des différents capteurs d'humidité du sol](https://github.com/TeteNeuvyAlexandre/Projet-Agriculture-Urbaine/blob/main/Bibliographie/TableauCapteursHumiditeSol.m) (effectué par KARBOUL Olfa),
+- [Comparatif des différents capteurs d'humidité du sol](https://github.com/TeteNeuvyAlexandre/Projet-Agriculture-Urbaine/blob/main/Bibliographie/TableauCapteursHumiditeSol.md) (effectué par KARBOUL Olfa),
 - [Comparatif des différents microcontrôleurs](https://github.com/TeteNeuvyAlexandre/Projet-Agriculture-Urbaine/blob/main/Bibliographie/TableauMicrocontroleurs.md) (effectué par TÊTE-NEUVY Alexandre),
 - [Comparatif des différents écrans](https://github.com/TeteNeuvyAlexandre/Projet-Agriculture-Urbaine/blob/main/Bibliographie/TableauEcrans.md) (effectué par TÊTE-NEUVY Alexandre).
 
