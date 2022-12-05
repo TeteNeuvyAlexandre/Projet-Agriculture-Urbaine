@@ -16,7 +16,7 @@ Ce document résume les recherches sur les capteurs d'humidité du sol afin de s
 
 [deuxième capteur](https://www.youtube.com/watch?v=NAtyDvdNi_o&t=114s)
 
-[troisième capteur](https://www.reichelt.com/fr/fr/cartes-de-d-veloppement-capteur-d-humidit-encastrable-dans-le-debo-cap-sens-p223620.html?r=1&fbclid=IwAR1 BhucXgahBX7ijb1HdhgdY8Nsoc_k3puw1_M-tY-LKTtGVNnwCqDPzTo)
+[troisième capteur](https://www.reichelt.com/fr/fr/cartes-de-d-veloppement-capteur-d-humidit-encastrable-dans-le-debo-cap-sens-p223620.html?r=1&fbclid=IwAR1)
 
 [quatrième capteur](https://www.youtube.com/watch?v=8wXSh9TeYoA&t=44s)
 
