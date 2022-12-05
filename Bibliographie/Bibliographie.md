@@ -30,5 +30,6 @@ Ce document à pour but de rassembler toute les sources qui ont été utiles lor
 - [Comparatif des différents microcontrôleurs](https://github.com/TeteNeuvyAlexandre/Projet-Agriculture-Urbaine/blob/main/Bibliographie/TableauMicrocontroleurs.md) (effectué par TÊTE-NEUVY Alexandre),
 - [Comparatif des différents écrans](https://github.com/TeteNeuvyAlexandre/Projet-Agriculture-Urbaine/blob/main/Bibliographie/TableauEcrans.md) (effectué par TÊTE-NEUVY Alexandre).
 
+- [Exemple d'un système de suivi d'une plante](https://www.pearl.fr/article/ZX2807/capteur-de-croissance-pour-plantes-sun-141-controle-par-application)
 
 ### [Retour à la page d'accueil](https://github.com/TeteNeuvyAlexandre/Projet-Agriculture-Urbaine)
