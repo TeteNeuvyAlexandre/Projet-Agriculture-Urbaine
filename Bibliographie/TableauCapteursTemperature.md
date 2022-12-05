@@ -1,13 +1,13 @@
-# Tableau de comparaison des capteurs de température
+| Type de capteur                 | Thermistance                 | RTD                          | Thermocouple     |   |   |   |   |   |   |
+|:-------------------------------:|:----------------------------:|:----------------------------:|:----------------:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Plage de température (standard) | de -100 à 325 °C             | de -200 à 650 °C             | de 200 à 1750 °C |   |   |   |   |   |   |
+| Précision (standard)            | de 0,05 à 1,5 °C             | de 0,1 à 1 °C                | de 0,5 à 5 °C    |   |   |   |   |   |   |
+| Stabilité à long terme à 100 °C | 0,2 °C/an                    | 0,05 °C/an                   | Variable         |   |   |   |   |   |   |
+| Linéarité                       | Exponentiel                  | Relativement linéaire        | Non linéaire     |   |   |   |   |   |   |
+| Puissance requise               | Tension ou courant constants | Tension ou courant constants | Autoalimenté     |   |   |   |   |   |   |
+| Temps de réponse                | Rapide                       |                              |                  |   |   |   |   |   |   |
+| 0,12 à 10 s                     | Généralement lent            |                              |                  |   |   |   |   |   |   |
+| 1 à 50 s                        | Rapide                       |                              |                  |   |   |   |   |   |   |
+| 0,10 à 10 s                     |                              |                              |                  |   |   |   |   |   |   |
 
-Ce document résume les recherches sur les capteurs de température afin de sélectionner le plus pertinent pour la conception de l'objet *"Pot Intelligent"*.
 
-| Modèle   | Spécificité n°1 | Spécificité n°2 | Spécificité n°N | Prix   |
-|:--------:|:---------------:|:---------------:|:---------------:|:------:|
-| Exemple  | Quelque chose   | Autre chose     |                 | Bidule |
-
-### [Retour vers la blibliographie](https://github.com/TeteNeuvyAlexandre/Projet-Agriculture-Urbaine/blob/main/Bibliographie/Bibliographie.md)
-
-### [Retour vers le cahier de bord](https://github.com/TeteNeuvyAlexandre/Projet-Agriculture-Urbaine/blob/main/Cahier-de-Bord/CahierDeBord.md)
-
-### [Retour vers la page d'accueuil](https://github.com/TeteNeuvyAlexandre/Projet-Agriculture-Urbaine)
