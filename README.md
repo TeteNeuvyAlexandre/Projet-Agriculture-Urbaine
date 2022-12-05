@@ -19,7 +19,7 @@ Ce projet à pour thème ***l'Agriculture Urbaine*** avec les problématiques su
 
 ![Diagramme Bête à Cornes](DiagrammeBeteCorneSombre.png)
 
-## Cahier des charges de l'objet
+## Cahier des charges du produit
 
 - Le produit doit être capable de mesurer trois grandeurs physiques pour surveiller le développement d'une plantes entregeistrer dans la base de donnée du produit. Ces trois grandeurs sont :
 	- La luminosité ambiante
