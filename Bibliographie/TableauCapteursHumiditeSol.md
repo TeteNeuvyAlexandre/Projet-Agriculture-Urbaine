@@ -21,13 +21,14 @@ Ce document résume les recherches sur les capteurs d'humidité du sol afin de s
 
 [quatrième capteur](https://cdn-reichelt.de/documents/datenblatt/A300/DATASHEET_SEN-MOISTURE.pdf)
 
-[cinquième capteur](https://cdn-reichelt.de/documents/datenblatt/A300/ME110.pdf)
+[cinquième capteur](https://cdn-reichelt.de/documents/datenblatt/A300/DATASHEET_SEN-MOISTURE.pdf)
 
-[sixième capteur](https://cdn-reichelt.de/documents/datenblatt/A300/SE045.pdf)
+[sixième capteur](https://cdn-reichelt.de/documents/datenblatt/A300/ME110.pdf)
 
-[ceptième capteur](https://cdn-reichelt.de/documents/datenblatt/A300/101020008_01.pdf)
+[ceptième capteur](https://cdn-reichelt.de/documents/datenblatt/A300/SE045.pdf)
 
-[huitième capteur]
+[huitième capteur](https://cdn-reichelt.de/documents/datenblatt/A300/101020008_01.pdf)
+
 
 
 
