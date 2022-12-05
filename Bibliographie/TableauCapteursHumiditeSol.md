@@ -2,15 +2,26 @@
 
 Ce document résume les recherches sur les capteurs d'humidité du sol afin de sélectionner le plus pertinent pour la conception de l'objet *"Pot Intelligent"*.
 
-| Référence du capteur  | type de capteur | Tension de fonctionnement (DC: continue) | Tension de sortie | Courant de fonctionnement | Dimension        | Compatible avec Arduino | Compatible avec Raspberry Pi | Prix  |
+| Référence du capteur  | Type de capteur | Tension de fonctionnement | Tension de sortie | Courant de fonctionnement | Dimensions        | Compatible avec Arduino | Compatible avec Raspberry Pi | Prix  |
 |:---------------------:|:---------------:|:----------------------------------------:|:-----------------:|:-------------------------:|:----------------:|:-----------------------:|:----------------------------:|:-----:|
-| V1.2                  | capacitif       | 3.3 - 5.5V                               | 0 - 3 V           | 20 mA                     | 22 x 97 x 9 mm   | Oui                     | Oui                          | 9,49  |
-| V2.0                  | capacitif       | 3.3 - 5.5 V                              | 0 - 3 V           | 5 mA                      | 100 x 22 x 10 mm | Oui                     | avec un convertisseur ADC    | 2,92  |
-| Soil Moisture Sensor  | résistif        | 3.3 - 12 V                               | 0 - 5 V           | 20 mA                     | 36 x 15 x 7 mm   | Oui                     | Oui                          | 2,7   |
-| ARD SEN WET3          | résistif        | 3.3 - 5 V                                | 0 - 4.2 V         | 35 mA                     | 82 x 20 x 10 mm  | Oui                     | avec le module ADC KY053     | 5,03  |
-| ARD SEN WET1          | résistif        | 3.3 - 5 V                                | 0 - 3 V           | 20 mA                     | _                | Oui                     | Non                          | 0,97  |
-| ARD SEN WET2          | résistif        | 5 V                                      | _                 | _                         | 65 x 20 mm       | Oui                     | Non                          | 0,83  |
-| Grove                 | résistif        | 3.3 - 5V                                 | _                 | 35 mA                     | 20 X 60 mm       | Oui                     | Non                          | 4,43  |
+| V1.2                  | capacitif       | 3.3 - 5.5V                               | 0 - 3 V           | 20 mA                     | 22 x 97 x 9 mm   | Oui                     | Oui                          | 9,49€  |
+| V2.0                  | capacitif       | 3.3 - 5.5 V                              | 0 - 3 V           | 5 mA                      | 100 x 22 x 10 mm | Oui                     | avec un convertisseur ADC    | 2,92€  |
+| Soil Moisture Sensor  | résistif        | 3.3 - 12 V                               | 0 - 5 V           | 20 mA                     | 36 x 15 x 7 mm   | Oui                     | Oui                          | 2,7€   |
+| ARD SEN WET3          | résistif        | 3.3 - 5 V                                | 0 - 4.2 V         | 35 mA                     | 82 x 20 x 10 mm  | Oui                     | avec le module ADC KY053     | 5,03€  |
+| ARD SEN WET1          | résistif        | 3.3 - 5 V                                | 0 - 3 V           | 20 mA                     | _                | Oui                     | Non                          | 0,97€  |
+| ARD SEN WET2          | résistif        | 5 V                                      | _                 | _                         | 65 x 20 mm       | Oui                     | Non                          | 0,83€  |
+| Grove                 | résistif        | 3.3 - 5V                                 | _                 | 35 mA                     | 20 X 60 mm       | Oui                     | Non                          | 4,43€  |
+
+https://cdn.shopify.com/s/files/1/1509/1638/files/Hygrometer_V1.2_Sensor_Modul_Datenblatt_AZ-Delivery_Vertriebs_GmbH.pdf?v=1608545956 
+https://www.youtube.com/watch?v=NAtyDvdNi_o&t=114s
+![image](https://user-images.githubusercontent.com/118742604/205647780-74b3e0e3-3bed-46fb-be15-6017a9a72398.png)
+https://www.reichelt.com/fr/fr/cartes-de-d-veloppement-capteur-d-humidit-encastrable-dans-le-debo-cap-sens-p223620.html?r=1&fbclid=IwAR1-BhucXgahBX7ijb1HdhgdY8Nsoc_k3puw1_M-tY-LKTtGVNnwCqDPzTo
+https://www.youtube.com/watch?v=8wXSh9TeYoA&t=44s
+https://cdn-reichelt.de/documents/datenblatt/A300/DATASHEET_SEN-MOISTURE.pdf
+https://cdn-reichelt.de/documents/datenblatt/A300/ME110.pdf
+https://cdn-reichelt.de/documents/datenblatt/A300/SE045.pdf
+https://cdn-reichelt.de/documents/datenblatt/A300/101020008_01.pdf
+![image](https://user-images.githubusercontent.com/118742604/205647710-6bf13cbd-5465-4896-bcd3-6091fd0101f6.png)
 
 
 ### [Retour vers la blibliographie](https://github.com/TeteNeuvyAlexandre/Projet-Agriculture-Urbaine/blob/main/Bibliographie/Bibliographie.md)
