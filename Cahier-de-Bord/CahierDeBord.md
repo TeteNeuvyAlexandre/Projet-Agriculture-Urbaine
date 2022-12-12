@@ -70,6 +70,7 @@ Bienvenue sur le cahier de bord du projet ***Agriculture Urbaine*** de BEN GHORB
 - Rédaction du cahier des charges du produit.
 - Rédaction de la liste des composants nécessaire pour la construction du prototype de l'objet.
 - Prototype n°1 : [[https://excalidraw.com/#json=d1uVzrqpD8OWENgDmwN0Z,ysI2p0NccQfqMGfkrqWaTQ]].
+- Pistes sites pour créer sites web : Wix // Zyro // Jimdo // Site123 // Webnode // SiteW // WebSelf // Weebly
 
 ### Ce qui sera à faire
 
