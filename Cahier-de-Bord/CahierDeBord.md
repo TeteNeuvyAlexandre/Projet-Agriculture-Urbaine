@@ -66,6 +66,7 @@ Bienvenue sur le cahier de bord du projet ***Agriculture Urbaine*** de BEN GHORB
 ### Ce qui à été fait
 
 - Premières recherches sur les différentes technologies utilisées pour la mesure d'humidité, d'intencité lumineuse et de température.
+- Construction d'une première version du diagramme de Gantt.
 - Rédaction du cahier des charges du produit.
 - Rédaction de la liste des composants nécessaire pour la construction du prototype de l'objet.
 
