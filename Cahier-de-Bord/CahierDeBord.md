@@ -56,4 +56,23 @@ Bienvenue sur le cahier de bord du projet ***Agriculture Urbaine*** de BEN GHORB
   - [Comparatif des différents écrans](https://github.com/TeteNeuvyAlexandre/Projet-Agriculture-Urbaine/blob/main/Bibliographie/TableauEcrans.md) (effectué par TÊTE-NEUVY Alexandre).
 - Mise en place du diagramme de Gant.
 
+## Troisième Séance (05/12/22)
+
+### Ce qui est demandé de faire
+
+- Rédiger un cahier des charges du produit.
+- Rédiger une liste des composants nécessaires à la construction du prototype de l'objet.
+
+### Ce qui à été fait
+
+- Premières recherches sur les différentes technologies utilisées pour la mesure d'humidité, d'intencité lumineuse et de température.
+- Rédaction du cahier des charges du produit.
+- Rédaction de la liste des composants nécessaire pour la construction du prototype de l'objet.
+
+### Ce qui sera à faire
+
+- Réflexion sur l'architecture des différents capteurs du produit.
+- Recherches sur la mise en oeuvre de la programmation du microcontôleur.
+- Début de l'étape de la construction du prototype.
+
 ### [Retour à la page d'accueil](https://github.com/TeteNeuvyAlexandre/Projet-Agriculture-Urbaine)
