@@ -69,13 +69,26 @@ Bienvenue sur le cahier de bord du projet ***Agriculture Urbaine*** de BEN GHORB
 - Construction d'une première version du diagramme de Gantt.
 - Rédaction du cahier des charges du produit.
 - Rédaction de la liste des composants nécessaire pour la construction du prototype de l'objet.
-- Prototype n°1 : [[https://excalidraw.com/#json=d1uVzrqpD8OWENgDmwN0Z,ysI2p0NccQfqMGfkrqWaTQ]].
-- Pistes sites pour créer sites web : Wix // Zyro // Jimdo // Site123 // Webnode // SiteW // WebSelf // Weebly
 
 ### Ce qui sera à faire
 
 - Réflexion sur l'architecture des différents capteurs du produit.
 - Recherches sur la mise en oeuvre de la programmation du microcontôleur.
 - Début de l'étape de la construction du prototype.
+
+## Quatrième Séance (12/12/22)
+
+### Ce qui à été fait
+
+- Début de la phase de réflexion sur la construction du prototype via le logiciel Tinkercad.
+	- Réflexion sur la conception materiel du produit.
+	- Réflexion sur la conception logiciel du produit.
+- Première réflexion sur la mise en contexte du produit : [lien vers Excalidraw](https://excalidraw.com/#json=d1uVzrqpD8OWENgDmwN0Z,ysI2p0NccQfqMGfkrqWaTQ).
+- Premières recherches sur des logiciels permetteant la création de sites web : Wix, Zyro, Jimdo, Site123, Webnode, SiteW, WebSelf, Weebly
+
+### Ce qui sera à faire
+
+- Compléter les recherches sur les différentes technologies utilisées pour la mesure d'humidité, d'intensité lumineuse et de température.
+- Continuer la conception logiciel du produit.
 
 ### [Retour à la page d'accueil](https://github.com/TeteNeuvyAlexandre/Projet-Agriculture-Urbaine)
