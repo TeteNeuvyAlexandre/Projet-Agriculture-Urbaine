@@ -69,6 +69,7 @@ Bienvenue sur le cahier de bord du projet ***Agriculture Urbaine*** de BEN GHORB
 - Construction d'une première version du diagramme de Gantt.
 - Rédaction du cahier des charges du produit.
 - Rédaction de la liste des composants nécessaire pour la construction du prototype de l'objet.
+- Prototype n°1 : [[https://excalidraw.com/#json=d1uVzrqpD8OWENgDmwN0Z,ysI2p0NccQfqMGfkrqWaTQ]].
 
 ### Ce qui sera à faire
 
